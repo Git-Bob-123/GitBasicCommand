@@ -1,0 +1,10 @@
+1. git init
+2. touch file 
+3. vi file
+4. git status
+5. git add 
+6. git rm --cached
+7. git commit
+8. git reset head
+9. git commit -m ""
+10. git ignore  
